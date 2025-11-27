@@ -1,9 +1,9 @@
-# 🚀 DbConnection
+# 🚀 Jardis DbConnection
 
 > **Enterprise-grade PHP database connection management with intelligent pooling and replication support**
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-blue.svg)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue.svg)](LICENSE)
 [![PHPStan Level](https://img.shields.io/badge/PHPStan-Level%208-success.svg)](phpstan.neon)
 [![PSR-12](https://img.shields.io/badge/code%20style-PSR--12-orange.svg)](phpcs.xml)
 
@@ -371,16 +371,6 @@ ConnectionPool
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! This project follows strict quality standards:
-
-1. **Branch naming:** `(feature|fix|hotfix)/{issue-number}_{description}`
-2. **PSR-12 compliance:** All code must pass `make phpcs`
-3. **Type safety:** PHPStan level 8 must pass
-4. **Test coverage:** Maintain 95%+ coverage target
-5. **Integration tests:** Test against real databases
-
 ### Pre-commit Hook
 
 Automatically installed via `composer install`:
@@ -392,7 +382,7 @@ Automatically installed via `composer install`:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**.
 
 ---
 
