@@ -1,7 +1,7 @@
 # 🚀 Jardis DbConnection
 
 > **Enterprise-grade PHP database connection management with intelligent pooling and replication support**
-
+![Build Status](https://github.com/jardisCore/dbconnection/actions/workflows/ci.yml/badge.svg)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-blue.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue.svg)](LICENSE)
 [![PHPStan Level](https://img.shields.io/badge/PHPStan-Level%208-success.svg)](phpstan.neon)
